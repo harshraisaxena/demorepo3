@@ -1,2 +1,2 @@
 -- 2. Insert data
-INSERT INTO DummyTable1 (ID, Name) VALUES (1, 'Alice');
+INSERT INTO DummyTable1 (ID, Name) VALUES (1, 'harsh');
