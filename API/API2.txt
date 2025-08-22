@@ -1,0 +1,2 @@
+# 2. GET with query params
+GET https://api.example.com/users?id=1
